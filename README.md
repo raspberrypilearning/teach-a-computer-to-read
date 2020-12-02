@@ -1,11 +1,11 @@
-# teach-a-computer-to-read
+# integer-classifier
 
-![teach-a-computer-to-read](banner.png)
+![integer-classifier](banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/teach-a-computer-to-read](https://projects.raspberrypi.org/en/projects/teach-a-computer-to-read)
+Find the project online at [projects.raspberrypi.org/en/projects/integer-classifier](https://projects.raspberrypi.org/en/projects/integer-classifier)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/teach-a-computer-to-read/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/teach-a-computer-to-read/tree/master/en/solutions).
+For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/integer-classifier/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/integer-classifier/tree/master/en/solutions).
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
