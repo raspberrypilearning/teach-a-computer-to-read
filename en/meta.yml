@@ -9,12 +9,14 @@ copyedit: true
 last_tested: '2020-06-29'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Get some training data
 - title: Explore and prepare your data
+  completion:
+  - engaged
 - title: Build your model
 - title: Compile your model
 - title: Train your model
-  completion: internal
 - title: Test your model
+  completion:
+  - internal
 - title: What next?
